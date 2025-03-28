@@ -6,7 +6,7 @@
 ### Инструкция настройка проекта
 1. Клонируем проект со свеми файлами с помощью 
     ```shell
-    git clone https://github.com/Kemuni/prak5-my-shop.git
+    git clone https://github.com/Kemuni/prak4_1.git
    ```
 2. Устанавливаем все зависимости для запуска проекта
     ```shell
