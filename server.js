@@ -12,6 +12,8 @@ const PORT = 3000;
 app.use(bodyParser.json());
 app.use(cors());
 
+app.use(express.static(__dirname + '/'));
+
 let users = []; // "База данных" пользователей
 
 app.post('/register', (req, res) => {
